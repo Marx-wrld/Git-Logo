@@ -8,3 +8,11 @@ body{
   align-items: center;
   background-color: azure;
 }
+.git-logo{
+    height: 150px;
+    width: 150px;
+    background-color: #f06033;
+    border-radius: 15px;
+    position: relative;
+    transform: rotate(45deg);
+}
