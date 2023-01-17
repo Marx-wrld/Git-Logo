@@ -16,3 +16,10 @@ body{
     position: relative;
     transform: rotate(45deg);
 }
+.line1{
+    width: 110px;
+    background-color: white;
+    height: 10px;
+    top: 40px;
+    position: absolute;
+}
