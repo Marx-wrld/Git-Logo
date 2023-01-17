@@ -43,3 +43,12 @@ body{
     top: -8px;
     left: 90px;
 }
+.line2{
+    width: 90px;
+    background-color: white;
+    height: 12px;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+    transform: rotate(45deg);
+}
