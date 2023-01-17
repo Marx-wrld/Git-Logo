@@ -23,3 +23,13 @@ body{
     top: 40px;
     position: absolute;
 }
+.line1::before{
+    content: "";
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    top: -8px;
+    left: 30px;
+}
