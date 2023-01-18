@@ -52,3 +52,13 @@ body{
     left: 30px;
     transform: rotate(45deg);
 }
+.line2::before{
+    content: "";
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    top: -8px;
+    left: 70px;
+}
